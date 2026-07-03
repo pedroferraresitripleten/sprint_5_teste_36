@@ -115,8 +115,11 @@ def main():
 # - Permite reutilizar funções em outros scripts sem executar main()
 # - Deixa o código mais profissional e modular
 if __name__ == "__main__":
+    
     # Chama a função main() para iniciar o programa
     main()
+    
+    print(f'Arquivo executado até o fim')
 
 
 # ============================================================================
