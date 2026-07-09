@@ -7,3 +7,7 @@ A ideia central deste projeto de exemplo é mostrar os seguintes comandos do GIT
 - `git commit -m`
 - `git pull`
 - `git push`
+- `git status`
+- `git restore --staged <arquivo>`
+- `git log`
+- `git log --oneline`
